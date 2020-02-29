@@ -1,3 +1,5 @@
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+
 # Star Blazer (original Python3 version)
 
 I'm mostly uploading this for the 1st year students who are curious to 
